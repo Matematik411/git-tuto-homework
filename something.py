@@ -1,6 +1,7 @@
 # name this Python file something.py
 # execute using the ▶ button or by running this in a terminal:
 #   python something.rb
+# prints the Fibonacci numbers
 a,b = 1,1
 print(a)
 print(b)
