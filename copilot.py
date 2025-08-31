@@ -1,6 +1,7 @@
 # Kodo spodaj je generiral Copilot.
 
-
+# ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+# Task 1:
 # Write me a python function that returns the nth Fibonacci number.
 def fibonacci(n):
     if n < 0:
@@ -17,6 +18,8 @@ def fibonacci(n):
 # Test the function
 print(fibonacci(10))  # Output: 34
 
+# ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+# Task 2:
 # Write a function that accepts a string of 5 digits and prints them in a large font using ASCII characters.
 # The print should be 7 lines tall.
 def print_large_font(digits):
@@ -46,3 +49,5 @@ def print_large_font(digits):
 print_large_font("12345")
 print("---------------------------------------")
 print_large_font("67890")
+
+# ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
